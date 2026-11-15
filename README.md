@@ -10,7 +10,7 @@ The project examines how observed attention is distributed across product groups
 
 The processed dataset is available on Hugging Face:
 
-https://huggingface.co/DKU-STATS201-Autumn2026/merrec-product-attention
+https://huggingface.co/datasets/DKU-STATS201-Autumn2026/merrec-product-attention
 
 The released dataset contains 4,874 product groups and 10 variables.
 
